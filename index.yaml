@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  fsa2019edge:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-03-08T11:29:53.613672653+01:00
+    description: A Helm chart for Kubernetes
+    digest: 4f6fd2a74c098bdd6c88289c5f3e0f0c961e91b5f5568fc01abaae2dd6a8d399
+    name: fsa2019edge
+    urls:
+    - https://jcresp.github.io/helmcharts/fsa2019edge-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-03-08T11:29:53.612107668+01:00
